@@ -1,0 +1,30 @@
+[core]
+	symlinks = false
+	autocrlf = true
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+	interactive = true
+[pack]
+	packSizeLimit = 2g
+[help]
+	format = html
+[http]
+	sslCAinfo = /bin/curl-ca-bundle.crt
+[sendemail]
+	smtpserver = /bin/msmtp.exe
+
+[diff "astextplain"]
+	textconv = astextplain
+[rebase]
+	autosquash = true
+[user]
+	email = InsertYourEmail@please.com
+	name = InsertYourName
+[alias]
+	n = config --system user.name
+	e = config --system user.email
+	lg = log --graph  --abbrev-commit --decorate --date=relative --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all
+	lgs = log --show-signature --graph  --abbrev-commit --decorate --date=relative --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all
+	lg2 = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset)%C(bold yellow)%d%C(reset)%n''          %C(white)%s%C(reset) %C(dim white)- %an%C(reset)' --all

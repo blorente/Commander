@@ -1,0 +1,3 @@
+{
+	"git_executable_path": "%CMDER_ROOT%/vendor/msysgit/bin/git.exe"
+}

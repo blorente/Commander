@@ -1,0 +1,376 @@
+{
+	"folder_history":
+	[
+		"/D/Dev/Commander/config",
+		"/D/Dev/Commander/vendor",
+		"/D/Dev/Commander/.git"
+	],
+	"last_version": 3083,
+	"last_window_id": 2,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 412.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 150.0,
+				"last_filter": "preview",
+				"selected_items":
+				[
+					[
+						"preview",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"subli",
+						"Sublimerge"
+					],
+					[
+						"previ",
+						"Markdown Preview: Preview in Browser"
+					]
+				],
+				"width": 512.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/Dev/Commander/hello.py",
+				"/D/Dev/Commander/Readme.md",
+				"/D/Dev/Commander/vendor/SublimeText/Data/Local/Session.sublime_session",
+				"/D/Dev/Commander/*/Session.sublime_session",
+				"/D/Dev/Commander/vendor/SublimeText/Data/Index/LOG",
+				"/D/Dev/Commander/.gitignore",
+				"/C/Users/Mortadelegle/side+",
+				"/C/Users/Mortadelegle/side",
+				"/D/Dev/Commander/config/settings",
+				"/D/Dev/Commander/config/aliases",
+				"/D/Dev/Commander/vendor/msysgit/etc/gitconfig",
+				"/D/Dev/hello.py",
+				"/D/Dev/Commander2/.gitignore",
+				"/D/Dev/Audio/src/Main/Main.java",
+				"/D/Dev/Audio/src/Audio/SongPlayerChannel.java",
+				"/D/Dev/Audio/src/Audio/SongPlayer.java",
+				"/D/Dev/Audio/src/Audio/InterruptibleChannel.java",
+				"/D/Dev/Audio/src/Audio/ClipPlayer.java",
+				"/D/Dev/Commander/vendor/SublimeText/Data/Packages/User/Preferences.sublime-settings",
+				"/D/Dev/Commander/vendor/SublimeText/Data/Packages/Default/Preferences.sublime-settings",
+				"/D/Dev/Audio/src/Audio/SongPlayer",
+				"/D/Dev/Commander/vendor/SublimeText/Data/Cache/Default/Startup.cache",
+				"/D/Dev/Commander/vendor/SublimeText/Data/Local/.idda5dda319678dfeaafbf1861712ae929d5666a6b",
+				"/D/Dev/Audio/README.md"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": false,
+			"side_bar_visible": true,
+			"side_bar_width": 149.0,
+			"status_bar_visible": false,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 448.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 150.0,
+				"last_filter": "preview",
+				"selected_items":
+				[
+					[
+						"preview",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"subli",
+						"Sublimerge"
+					],
+					[
+						"previ",
+						"Markdown Preview: Preview in Browser"
+					]
+				],
+				"width": 512.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/Dev/Commander/hello.py",
+				"/D/Dev/Commander/Readme.md",
+				"/D/Dev/Commander/vendor/SublimeText/Data/Local/Session.sublime_session",
+				"/D/Dev/Commander/*/Session.sublime_session",
+				"/D/Dev/Commander/vendor/SublimeText/Data/Index/LOG",
+				"/D/Dev/Commander/.gitignore",
+				"/C/Users/Mortadelegle/side+",
+				"/C/Users/Mortadelegle/side",
+				"/D/Dev/Commander/config/settings",
+				"/D/Dev/Commander/config/aliases",
+				"/D/Dev/Commander/vendor/msysgit/etc/gitconfig",
+				"/D/Dev/hello.py",
+				"/D/Dev/Commander2/.gitignore",
+				"/D/Dev/Audio/src/Main/Main.java",
+				"/D/Dev/Audio/src/Audio/SongPlayerChannel.java",
+				"/D/Dev/Audio/src/Audio/SongPlayer.java",
+				"/D/Dev/Audio/src/Audio/InterruptibleChannel.java",
+				"/D/Dev/Audio/src/Audio/ClipPlayer.java",
+				"/D/Dev/Commander/vendor/SublimeText/Data/Packages/User/Preferences.sublime-settings",
+				"/D/Dev/Commander/vendor/SublimeText/Data/Packages/Default/Preferences.sublime-settings",
+				"/D/Dev/Audio/src/Audio/SongPlayer",
+				"/D/Dev/Commander/vendor/SublimeText/Data/Cache/Default/Startup.cache",
+				"/D/Dev/Commander/vendor/SublimeText/Data/Local/.idda5dda319678dfeaafbf1861712ae929d5666a6b",
+				"/D/Dev/Audio/README.md"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-1,-1,-1,-1,580,652,109,1116",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": false,
+			"side_bar_visible": true,
+			"side_bar_width": 149.0,
+			"status_bar_visible": false,
+			"template_settings":
+			{
+			},
+			"window_id": 1
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

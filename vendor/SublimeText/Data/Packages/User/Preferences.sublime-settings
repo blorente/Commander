@@ -1,0 +1,10 @@
+{
+	"hot_exit": false,
+	"close_windows_when_empty": true,
+	"translate_tabs_to_spaces": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"remember_open_files": false
+}

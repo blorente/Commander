@@ -1,0 +1,19 @@
+config/.history
+Thumbs.db
+*.exe
+build/
+Version v*
+
+##This is a mess...
+
+config/.history
+vendor/SublimeText/Data/Cache/Default/Startup.cache
+vendor/SublimeText/Data/Local/Auto Save Session.sublime_session
+vendor/SublimeText/Data/Cache/Default/Syntax Summary.cache
+vendor/SublimeText/Data/Packages/User/Package Control.cache/*
+vendor/SublimeText/Data/Packages/User/Package Control.last-run
+vendor/SublimeText/Data/Packages/User/bh_unicode_properties.cache
+vendor/SublimeText/Data/Local/.idda5*
+vendor/SublimeText/Data/Index/*
+GPG/*
+*.dmp
