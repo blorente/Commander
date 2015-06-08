@@ -1,9 +1,6 @@
 {
 	"folder_history":
 	[
-		"/D/Dev/Commander/config",
-		"/D/Dev/Commander/vendor",
-		"/D/Dev/Commander/.git"
 	],
 	"last_version": 3083,
 	"last_window_id": 2,
@@ -29,18 +26,6 @@
 				"last_filter": "preview",
 				"selected_items":
 				[
-					[
-						"preview",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"subli",
-						"Sublimerge"
-					],
-					[
-						"previ",
-						"Markdown Preview: Preview in Browser"
-					]
 				],
 				"width": 512.0
 			},
@@ -62,30 +47,6 @@
 			},
 			"file_history":
 			[
-				"/D/Dev/Commander/hello.py",
-				"/D/Dev/Commander/Readme.md",
-				"/D/Dev/Commander/vendor/SublimeText/Data/Local/Session.sublime_session",
-				"/D/Dev/Commander/*/Session.sublime_session",
-				"/D/Dev/Commander/vendor/SublimeText/Data/Index/LOG",
-				"/D/Dev/Commander/.gitignore",
-				"/C/Users/Mortadelegle/side+",
-				"/C/Users/Mortadelegle/side",
-				"/D/Dev/Commander/config/settings",
-				"/D/Dev/Commander/config/aliases",
-				"/D/Dev/Commander/vendor/msysgit/etc/gitconfig",
-				"/D/Dev/hello.py",
-				"/D/Dev/Commander2/.gitignore",
-				"/D/Dev/Audio/src/Main/Main.java",
-				"/D/Dev/Audio/src/Audio/SongPlayerChannel.java",
-				"/D/Dev/Audio/src/Audio/SongPlayer.java",
-				"/D/Dev/Audio/src/Audio/InterruptibleChannel.java",
-				"/D/Dev/Audio/src/Audio/ClipPlayer.java",
-				"/D/Dev/Commander/vendor/SublimeText/Data/Packages/User/Preferences.sublime-settings",
-				"/D/Dev/Commander/vendor/SublimeText/Data/Packages/Default/Preferences.sublime-settings",
-				"/D/Dev/Audio/src/Audio/SongPlayer",
-				"/D/Dev/Commander/vendor/SublimeText/Data/Cache/Default/Startup.cache",
-				"/D/Dev/Commander/vendor/SublimeText/Data/Local/.idda5dda319678dfeaafbf1861712ae929d5666a6b",
-				"/D/Dev/Audio/README.md"
 			],
 			"find":
 			{
@@ -195,18 +156,6 @@
 				"last_filter": "preview",
 				"selected_items":
 				[
-					[
-						"preview",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"subli",
-						"Sublimerge"
-					],
-					[
-						"previ",
-						"Markdown Preview: Preview in Browser"
-					]
 				],
 				"width": 512.0
 			},
@@ -228,30 +177,6 @@
 			},
 			"file_history":
 			[
-				"/D/Dev/Commander/hello.py",
-				"/D/Dev/Commander/Readme.md",
-				"/D/Dev/Commander/vendor/SublimeText/Data/Local/Session.sublime_session",
-				"/D/Dev/Commander/*/Session.sublime_session",
-				"/D/Dev/Commander/vendor/SublimeText/Data/Index/LOG",
-				"/D/Dev/Commander/.gitignore",
-				"/C/Users/Mortadelegle/side+",
-				"/C/Users/Mortadelegle/side",
-				"/D/Dev/Commander/config/settings",
-				"/D/Dev/Commander/config/aliases",
-				"/D/Dev/Commander/vendor/msysgit/etc/gitconfig",
-				"/D/Dev/hello.py",
-				"/D/Dev/Commander2/.gitignore",
-				"/D/Dev/Audio/src/Main/Main.java",
-				"/D/Dev/Audio/src/Audio/SongPlayerChannel.java",
-				"/D/Dev/Audio/src/Audio/SongPlayer.java",
-				"/D/Dev/Audio/src/Audio/InterruptibleChannel.java",
-				"/D/Dev/Audio/src/Audio/ClipPlayer.java",
-				"/D/Dev/Commander/vendor/SublimeText/Data/Packages/User/Preferences.sublime-settings",
-				"/D/Dev/Commander/vendor/SublimeText/Data/Packages/Default/Preferences.sublime-settings",
-				"/D/Dev/Audio/src/Audio/SongPlayer",
-				"/D/Dev/Commander/vendor/SublimeText/Data/Cache/Default/Startup.cache",
-				"/D/Dev/Commander/vendor/SublimeText/Data/Local/.idda5dda319678dfeaafbf1861712ae929d5666a6b",
-				"/D/Dev/Audio/README.md"
 			],
 			"find":
 			{
