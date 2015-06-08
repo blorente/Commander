@@ -17,7 +17,7 @@ Commander is a portable & customizable workspace ready to use from minute one
 
 ## Download
 
-1. Go to either [Github releases]() or [Bitbucket releases](https://bitbucket.org/Mortadelegle/commander/downloads)
+1. Go to either [Github releases](https://github.com/Mortadelegle/Commander/releases) or [Bitbucket releases](https://bitbucket.org/Mortadelegle/commander/downloads)
 2. Perform **First Time Setup**
 3. Carry around as much as you want!
 
