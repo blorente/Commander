@@ -5,4 +5,5 @@ pwd=cd
 clear=cls
 subl="%CMDER_ROOT%\vendor\SublimeText\sublime_text.exe" $1 -new_console:s50H
 sublv="%CMDER_ROOT%\vendor\SublimeText\sublime_text.exe" $1 -new_console:s50V
+sublime="%CMDER_ROOT%\vendor\SublimeText\sublime_text.exe" -new_console
 python="%CMDER_ROOT%\vendor\Python\App\python.exe" $1 -new_console:s50H $2 -u
