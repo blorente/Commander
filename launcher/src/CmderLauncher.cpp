@@ -98,7 +98,7 @@ void StartCmder(std::wstring path)
 
 	PathRemoveFileSpec(exeDir);
 
-	PathCombine(icoPath, exeDir, L"icons\\cmder.ico");
+	PathCombine(icoPath, exeDir, L"icons\\commander.ico");
 	PathCombine(cfgPath, exeDir, L"config\\ConEmu.xml");
 	PathCombine(conEmuPath, exeDir, L"vendor\\conemu-maximus5\\ConEmu.exe");
 
@@ -172,7 +172,7 @@ void RegisterShellMenu(std::wstring opt, wchar_t* keyBaseName)
 	// Now that we have `commandStr`, it's OK to change `exePath`...
 	PathRemoveFileSpec(exePath);
 
-	PathCombine(icoPath, exePath, L"icons\\cmder.ico");
+	PathCombine(icoPath, exePath, L"icons\\commander.ico");
 
 	// Now set the registry keys
 
