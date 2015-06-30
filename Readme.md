@@ -13,7 +13,6 @@ Commander is a portable & customizable workspace ready to use from minute one
     * [Sublimerge](http://www.sublimerge.com/)
     * [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
     * [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter)
-* `.gitignore` already configured
 
 ## Download
 
