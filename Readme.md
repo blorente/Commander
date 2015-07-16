@@ -64,6 +64,12 @@ An example is the alias `subl` which will open SublimeText on the side of the co
 `git lg` and `git lg2` which are prettier git log options
 ![Git lg screenshot](http://i.imgur.com/QOcvbeH.png)
 
+### SSH Agent
+
+To start SSH agent simply call `agent`, which is in the `bin` folder.
+
+If you want to run SSH agent on startup, uncomment the line in `/vendor/init.bat`so it says `@call "%CMDER_ROOT%/bin/agent.cmd"`.
+
 ### Python Interpreter
 You can call the Python Interpreter by typing `python`
 If you do not provide arguments it will launch the python window on the side
