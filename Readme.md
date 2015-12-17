@@ -4,7 +4,7 @@
 
 Commander is a portable & customizable workspace ready to use from minute one
 
-## What does it include
+## What does it include?
 
 * [**Cmder**](http://gooseberrycreative.com/cmder/) fully portable terminal emulator 
 * [**Portable Python**](http://portablepython.com/) Interpreter
